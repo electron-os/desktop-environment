@@ -9,6 +9,7 @@
 
 # dependencies
 /node_modules
+/bower_components
 
 # profiling files
 chrome-profiler-events*.json

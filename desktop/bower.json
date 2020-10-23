@@ -1,0 +1,18 @@
+{
+  "name": "desktop",
+  "authors": [
+    "morteza-jamali <mortezajamali4241@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Electron-OS/desktop-environment",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "micon": "^3.0.168"
+  }
+}
